@@ -93,7 +93,7 @@ img{
 }
 .search-list{
     position: absolute;
-    right: 0;
+    right: 17%;
     top: 100%;
     max-height: 500px;
     overflow-y: scroll;
